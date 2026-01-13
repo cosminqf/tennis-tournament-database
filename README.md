@@ -146,7 +146,7 @@ Baza de date conține **18 tabele relaționale**, normalizate.
 ### Setup
 
 1. Deschide fișierul:
-   # all.sql
+   **all.sql**
 2. Rulează secțiunile în ordine:
 - **CREATE TABLES** (DDL)
 - **INSERT DATA** (DML)
